@@ -34,25 +34,18 @@
 
 Describe your project
 
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [PhaserJS](https://phaser.io/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on your vscode installed.
 
 ## :checkered_flag: Starting ##
 
@@ -63,13 +56,10 @@ $ git clone https://github.com/Arthur-Matias/bunny-jump
 # Access
 $ cd bunny-jump
 
-# Install dependencies
-$ yarn
+# Open with code
+code .
 
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+# Then just open index.html with the LiveServer extension (or simply drag&drop the index.html file to your favorite browser)
 ```
 
 ## :memo: License ##
