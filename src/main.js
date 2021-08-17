@@ -1,8 +1,6 @@
-import phaser from './lib/phaser.js'
+import Phaser from './lib/phaser.js'
 import Game from './scenes/Game.js'
 import GameOver from './scenes/GameOver.js'
-
-console.dir(phaser)
 
 window.onclick = function() {
     if(audioCtx.state === 'running') {
@@ -26,8 +24,7 @@ const config = {
         arcade: {
             gravity: {
                 y:200
-            },
-            debug: true
+            }
         }
     }
 }
