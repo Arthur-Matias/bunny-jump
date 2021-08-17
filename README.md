@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./.github/banner.png" alt="Bunny Jump" />
+  <img src="https://github.com/Arthur-Matias/bunny-jump/blob/main/src/assets/banner.png" alt="Bunny Jump" />
 
   &#xa0;
 
-  <!-- <a href="https://bunnyjump.netlify.app">Demo</a> -->
+  <a href="https://arthur-matias.github.io/bunny-jump/">Demo</a>
 </div>
 
 <h1 align="center">Bunny Jump</h1>
@@ -16,21 +16,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Arthur-Matias/bunny-jump?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/Arthur-Matias/bunny-jump?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Arthur-Matias/bunny-jump?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Arthur-Matias/bunny-jump?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Arthur-Matias/bunny-jump?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Bunny Jump 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
