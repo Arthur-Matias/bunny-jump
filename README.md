@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Bunny Jump" />
+  <img src="./.github/banner.png" alt="Bunny Jump" />
 
   &#xa0;
 
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/Arthur-Matias" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/Arthur-Matias" target="_blank">Arthur Matias</a>
 
 &#xa0;
 
