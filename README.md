@@ -30,7 +30,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Infinite bunny jumper game. Developed with JavaScript and PhaserJS
 
 ## :rocket: Technologies ##
 
@@ -39,7 +39,6 @@ The following tools were used in this project:
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [PhaserJS](https://phaser.io/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
